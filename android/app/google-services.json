@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873623834415",
+    "project_id": "showroom-a27a7",
+    "storage_bucket": "showroom-a27a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873623834415:android:48ad79fb243ca853b7dbda",
+        "android_client_info": {
+          "package_name": "com.showroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeXMLm9nUrEQ8YPS_NX4ARKUVGQJ9XUsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
